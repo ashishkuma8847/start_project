@@ -81,6 +81,11 @@ font-weight: 400;
 line-height: 25px;
 text-align: right;
 color: white;
+border-bottom: 2px solid transparent;
+  }
+  .header-main-io2-h1:hover{
+border-bottom: 2px solid white;
+transition: all 0.5s ease-in-out;
 
   }
   .header-main-io2-image1{
